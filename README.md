@@ -1,4 +1,14 @@
-# Alter-Module
-A module filled with simple instructions to modify/alter strings &amp; lists, in a way not native to python, but very useful in increasing productivity.
+****Overview:****
 
-Refer to README for a detailed documentation on the modules special attributes, & how to contribute in expanding the module.
+
+The "alter" module provides special features i.e: 
+
+1 - removing recurring elements from a list
+
+2 - stating the majorty datatype of a list
+
+3 - primitive encoding & decoding strings etc.
+
+
+*Refer to the Wiki for full documentation*
+
